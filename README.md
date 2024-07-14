@@ -1,7 +1,5 @@
 # PowerPointPresentation_on_Entrepreneurship_skill_development
 
-### Reason for Adding ESD Project to GitHub
-
 This ESD (Entrepreneurship Skill Development) project, focused on Urban Development, showcases a comprehensive business plan for a Schedule-Shared Ride service with multiple travel options. The PowerPoint presentations were meticulously designed by me, reflecting a professional and cohesive visual style.
 
 In collaboration with my partner, I contributed extensively to:
